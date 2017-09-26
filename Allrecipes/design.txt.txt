@@ -1,0 +1,77 @@
+/*
+* Allrecipes Website Layout Proposal
+* Design Decisions Document
+*
+* Project Made Using Balsamiq Mockups 3
+*
+* Chris Player
+*/
+
+
+Website Description
+____________________
+	Allrecipes is a website mostly used for searching, posting, and storing
+	recipes. Users can search for recipes using a variety of methods, or they
+	can upload their own recipes for public use. Users can also comment and
+	rate recipes, change ingredient amounts, create a profile to store
+	favorited recipes, and buy kitchen gear.
+
+Major Changes
+____________________
+	General Layout:
+		Currently Allrecipes focuses their layout on the presentation of their
+		content, which is good! But it also hides some of the information a user
+		might be looking for - such as finding a place to buy things, or specific
+		types of cuisine. Posts are setup in a similar manner to Pinterest, and
+		the user can enjoy endless scrolling on the main home page or search for
+		something specific. If the user enters the shop, they are taken to a
+		separate webpage with a different layout entirely. They use a large banner
+		to showcase more items, their logo is minimized, and their menu contents
+		can only be accessed through two dropdown menus. Adds are also hidden
+		within the recipe posts.
+
+		My proposal gives the logo a better highlight with it's social buttons along
+		it's underside, as well as a dedicated addspace. I propose a different style
+		for posts to give a 'recipe card' look, which contains an image, a short
+		description, and some space for tags. There is also a dedicated space in a
+		left sidebar that the user can use to search for recipes, search by
+		ingredients, or search by a category. Lastly, a navbar is added to make
+		general website navigation easier for the user, but keep the Bell, Like, and
+		Profile buttons at the top.
+
+	Search by Category:
+		Currently this option only works via a dropdown menu, which is minimized
+		beside the small logo at the top of the screen. When pressed, this menu
+		expands and takes up roughly half the page, and breadcrumbs appear above
+		the banner to help the user track their progress. Adds are also found
+		throughout the posts.
+
+		My proposal makes use of the sidebar and removes the breadcrumbs. To condense
+		the information being presented, recipes are still presented in small posts,
+		but they are stacked in a consistent layout rather than snapping together posts
+		of differing sizes. Ideally, there would also be a total that could appear in
+		one of three places: above the Find a Recipe search bar, above the addspace where
+		there is currently a decent amount of whitespace, or on the actual page itself.
+
+	Shop Layouts:
+		Currently, clicking the Shop option leads the user to a separate website. This
+		wouldn't be as big of a problem if the website weren't a completely different
+		layout to the main website, and also require the user to click a small link at the
+		top of the screen to return back to the "allrecipes Main Site". Content is organized
+		similar to the main site's content, but with the addition of a navbar that contains
+		dropdown menus. They also have a sidebar menu, and breadcrumbs.
+
+		My proposed layout matches the shop layout to the recipes portion of the website.
+		This, along with using the side menu, would help eliminate confusion for the user.
+		The link to return the user back to the recipes would be placed on the navbar as a
+		button, and navbar options become the shop options while the user is looking through
+		their catalogue. Options are also limited a bit, as the current shop's sidebar contains
+		more than nine different options to narrow down one's search. Ideally, there would be
+		four, maybe five different options to narrow the focus of the search.
+
+		As the user advances further through a particular search, the contents on the navbar
+		change to match the contents being displayed. This refining process continues as the
+		user searches, such as when searching for Knives in the Cutlery department, and the
+		sidebar will also offer limitations, such as Under $20, or a min-max price option.
+		Images can be enlarged when their respective box is selected.
+		
