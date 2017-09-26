@@ -1,0 +1,82 @@
+/*
+* Costco Wholesale Website Layout Proposal
+* Design Decisions Document
+*
+* Project Made Using Balsamiq Mockups 3
+*
+* Chris Player
+*/
+
+
+Website Description
+____________________
+	Costco Wholesale's website is a space designed to not only promote
+	available product to the customer, but to give them access to special
+	online-only content for delivery to their door. It contains a number of
+	search options and allows the user to track their orders through their
+	account, gives them access to special outside deals offered to Costco
+	members, and provides access to other company-specific information.
+	(ie. applying for jobs, information about the vendors, the Costco
+	newsletter, etc.)
+	
+
+Major Changes
+____________________
+	General Layout:
+		Currently the layout is dominated by showcased items with adds and
+		member services mixed in. Hovering over the All Departments section
+		of the navbar creates a dropdown menu, and hovering over those options
+		creates yet another menu that obscures the entire page. The top of the
+		page is filled with links, a logo, and a searchbar, and clicking the
+		Business Center option sends the user to a different website with its
+		own layout.
+
+		The layout I propose adds more structure and makes the user's options more
+		straightforward, as well as utilizes the whitespace on the page. Rather than
+		a dropdown menu, a sidebar menu would appear and change contents as needed.
+		Links at the top of the screen are condensed, the addspace is minimized
+		and separated from the main content, and the searchbar is also relocated
+		to the top of the screen. The Business Center link is relocated to the top
+		of the screen and vanishes when a non-retailer logs into their account,
+		and ideally the Business Center would contain the same layout.
+
+	Navigation:
+		Currently, navigation options are accessed via the dropdown menu on
+		the All Departments button, and the other buttons on the navigation
+		bar. Upon clicking an option, breadcrumbs appear above the page title,
+		and more options appear as images on the screen. Further items can be
+		accessed on the dropdown menu by hovering over text to open another
+		menu, which cannot be used by touch devices as clicking on the option
+		takes you to that page.
+
+		The proposed layout removes the All Departments dropdown in favor of a
+		sidebar menu of links. Breadcrumbs are still used, but the main navbar is
+		altered to reflect these changes. The Business Center option has been
+		removed from the main navbar, as it leads to a different website that most
+		customers won't need, band is instead up at the top of the screen by the
+		Sign In option. The Membership and Locations options are combined in the
+		About Costco section, which should contain all the information you need to
+		find and shop at a Costco.
+
+	Showcased Items:
+		Currently, the homescreen contains a large amount of showcased items (ie. ADS,
+		more links that can be found through Services or Membership, links to some
+		subsections in various departments, etc.) There is also a large banner that
+		flips through even more showcased items. The options do get more focused further
+		into the search, but these items still dominate the page.
+
+		Proposed changes would include: Items/departments are still showcased in the center
+		of the screen, but they are better separated to allow for less confusion by the
+		typical user. More options to narrow down your search are available on the sidebar
+		menu, breadcrumbs allow for easier navigation, and a Sort By option is provided on
+		the showcased items as well.
+
+	My Account:
+		Currently the page offers a breadcrumb menu, a short sidebar menu, and pages with
+		grouped text and dropdown menus.
+
+		In my proposed changes, these dropdown menus would be simplified and display boxes
+		would help keep content sorted nicely. The sidebar menu is stretched to create a
+		better visual. The breadcrumbs are removed as the menu options are less complex,
+		and all other sections of the website can be easily accessed through the Logo and
+		the main navbar.
