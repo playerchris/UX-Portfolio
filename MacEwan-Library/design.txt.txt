@@ -1,0 +1,95 @@
+/*
+* MacEwan Library Website Layout Proposal
+* Design Decisions Document
+*
+* Project Made Using Balsamiq Mockups 3
+*
+* Chris Player
+*/
+
+
+Website Description
+____________________
+	The MacEwan Library website is a space designed to help students
+	find academic papers, journals, books, magazines, and other materials
+	they might need for their learning. It also gives students access to
+	research and citation help guides, and allows students to book rooms
+	for study groups. The user's account keeps track of specific requests,
+	fees owed to the library, and books currently signed out under that
+	student's ID.
+
+Major Changes
+____________________
+	General Layout:
+		Currently the website is fairly well laid out. Students can navigate
+		through with few problems, and though there is a lot of whitespace,
+		the content is presented in a way that generally makes sense. They
+		also keep the search bar available on all pages, which takes up a lot
+		of space but is a good feature to have.
+
+		The proposed layout attempts to utilize more of that whitespace, as
+		well as limit some of the reoccurring links to specific locations.
+		While many pages currently are presented nicely, some information is moved.
+		Other pages are rearranged to make better use of the space and the information
+		needed by the student. The navbar is also relocated to the left side of
+		the page, rather than having it hanging off of the right. Additionally,
+		items that can normally only be given to individuals registered with the
+		school (such as booking private rooms) are only made visible after the
+		user has signed in. Finally, while the main searchbar would ideally be more
+		narrow than is presented either in my proposal or the actual website, it
+		remains a useful feature.
+
+	Student Account Layout:
+		Currently, information about a student's item requests, rentals, or fees can
+		be accessed on the student account page. Boxes are provided that, when needed,
+		contain information about those items. A student's fees, and access to eReserves,
+		are also shown under the search bar, around the middle of the page.
+
+		The proposed changes just make better use of this space by organizing the
+		contents a bit better, and adding a few more bits of information that a student
+		might want. After logging in, the Room Booking option becomes available on the
+		main navbar, and the option is also repeated on the page itself. Contents of the
+		page are divided via items or rooms that a student has already reserved/are
+		overdue, and items that a student has requested, have arrived, or wishes to
+		request (such as an eReserve or the private rooms).
+
+		Rather than having the website's main search bar appear on this page, a banner
+		welcoming the student takes its place. On this banner users are also given access
+		to their account history, which would show them the items they have borrowed in
+		the past, as well as their current fees. This, combined with the new information
+		suggested, will make finding account information easier for students.
+
+	Subject Guide Layout:
+		Currently the subject guide page is rather long, with all the available
+		subject options being printed in a single column list. A side menu is made available
+		on each page. This menu contains links to items a new student might not know how to
+		access. Breadcrumbs appear above the page's content, which at this point just
+		further breaks up the content.
+
+		My proposed layout removes those breadcrumbs but keeps the sidebar, though the information
+		could likely be found under either the Help or Research options in the main navbar. As
+		a student using a subject guide might not know where to start, having these items
+		easily accessible would be ok to have. The list is also compressed into a scrolling list,
+		rather than taking up the bulk of the page.
+
+	Database Search Layout:
+		Along with a sidebar, this page gives several options for searching for a database. A
+		user may search via title, type, subject, name, or they can make use of the long,
+		multi-page list that this page also offers. Breadcrumbs are also available on this page.
+
+		In my proposed layout the sidebar, which at this point just provides links back to
+		Subject Guide and the Citation guide, is removed. I also removed the long multi-page
+		list in favor of an alphabetical presentation. Ideally the tabs would be better spaced
+		out, or at least larger, and there would be at least ten titles listed. This list is
+		also scrollable.
+
+	Citation Search Layout:
+		Currently, this page contains the most whitespace so far. The same breadcrumbs and sidebar
+		found in the Database Search page are found here, though the search form itself is a good
+		idea. The biggest problem with it is the scale of the form, which takes approximately 20%
+		of the space on the page in total.
+
+		My proposal removes those unneeded breadcrumbs and sidebar contents, and makes the form
+		the focus of the page. The search options are made larger, and the buttons to either clear
+		or use the form are relocated to the top right of the search box. Ideally the search fields
+		would probably be a little larger, but they would stay the focus of the page.
